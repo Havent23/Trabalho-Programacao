@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Mysqlx.Resultset;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -31,7 +32,9 @@ namespace Veterinária
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            Veterinária.VeterináriaDataSet.AnimalDataTable DataTable = new Veterinária.VeterináriaDataSet.AnimalDataTable();
+            D
+            DataTable.AddAnimalRow(textBox1.Text);
             Form1 form1 = new Form1();
             this.Hide();
             form1.Show();
