@@ -1,0 +1,6 @@
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.csproj.AssemblyReference.cache
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.Form1.resources
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.Form2.resources
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.Properties.Resources.resources
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.csproj.GenerateResource.cache
+C:\Users\epic\Source\Repos\Trabalho-Programacao\Veterinária\obj\Debug\Veterinária.csproj.CoreCompileInputs.cache
